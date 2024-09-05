@@ -1,8 +1,5 @@
 <script setup>
 const { quiz } = defineProps(["quiz"]);
-
-console.log(quiz);
-
 </script>
 
 <template>
