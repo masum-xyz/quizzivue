@@ -11,7 +11,7 @@ console.log(quizes);
 <template>
   <main>
     <header>
-      <h1 id="title">Quizzler</h1>
+      <h1 id="title">QuizziVue</h1>
       <input type="text" id="search-input" placeholder="Search...">
     </header>
 
